@@ -1,3 +1,4 @@
+//@nearfile out
 import { i128 } from './i128';
 import { i256 } from './i256';
 import { u256 } from './u256';
